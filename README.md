@@ -47,7 +47,7 @@
 ---
 
 ## 📫 Contact
-- 💬 Discord: **ZYX**
+- 💬 Discord: **whoss.zyx**
 - 🌐 GitHub: **github.com/whoszyx**
 
 ---
