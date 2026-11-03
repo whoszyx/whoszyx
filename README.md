@@ -20,15 +20,7 @@
 
 ### `01` — a little about me
 
-```js
-const zyx = {
-  role: "indie developer",
-  interests: ["web", "Discord bots", "Python", "AI"],
-  currently: "experimenting with AI",
-  philosophy: "if it sounds fun, build it",
-  debugging: "console.log() and blind optimism"
-};
-```
+[![1zy.x's Discord status](https://dsc-readme.tsuni.dev/api/user/1482952220021489826?bannerColor=000000&theme=nitroDark&primaryColor=050508&accentColor=040405&width=512&font=vampyre&nameColor1=DE8C52)](https://github.com/the-snesler/discord-github-preview)
 
 - 🧩 I build websites, Discord projects, and random ideas that somehow turn into actual projects.
 - 🤖 Currently exploring AI and finding new ways to turn ideas into code.
